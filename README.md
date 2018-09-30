@@ -1,6 +1,6 @@
 # Polygon/Point Overlap Detection Tool
 
-The purpose of the tool is to automate the detection of point and polygon overlap for the same NID. A codebook is entered and (if applicable) a list of affected NIDs are returned along with infographs and actionable insights for analysts to use to remedy the issue. 
+The purpose of the tool is to automate the detection of point and polygon overlap for the an NID. A codebook is entered and (if applicable) a list of affected NIDs are returned along with infographs and actionable insights for analysts to use to remedy the issue. 
 
 All file paths are currently linked to J drive locations: **J:/temp/jessicac/**, **J:/temp/jessicac/outputs/**, geospatial codebooks and geospatial shapefiles 
 
