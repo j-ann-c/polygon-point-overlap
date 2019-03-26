@@ -1,6 +1,6 @@
 /* 
- Some code borrowed from:
- https://github.com/frankcleary/mpg/blob/master/mpg.js 
+ Some code referenced from
+ https://github.com/frankcleary/mpg/blob/master/
 */
 
 var Chart = function (opts) {
