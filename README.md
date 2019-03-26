@@ -1,6 +1,6 @@
 # Polygon/Point Overlap Detection Tool
 
-:star: Some files in repository is utilized at The Institute for Health Metrics and Evaluation (An independent global health research center at the University of Washington)
+:star: Some files in repository are utilized at The Institute for Health Metrics and Evaluation (An independent global health research center at the University of Washington)
 
 :star: Repository holds all work I contributed over the course of my internship (Summer 2018)
 
