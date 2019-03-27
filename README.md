@@ -2,8 +2,7 @@
 
 :star: Files in repository are utilized at The Institute for Health Metrics and Evaluation (An independent global health research center at the University of Washington)
 
-:star: Repository holds all work I contributed over the course of my internship (Summer 2018)
-
+:star: Repository holds most of the work I contributed over the course of my internship (Summer 2018). Most files were compiled to this  personal repository after the internship concluded.
 
 The purpose of the overlap_detect.py tool is to automate the detection of point and polygon overlap for an NID. A codebook is entered and (if applicable) a list of affected NIDs are returned along with infographs and actionable insights for analysts to use to remedy the issue. 
 
